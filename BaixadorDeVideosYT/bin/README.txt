@@ -1,0 +1,1 @@
+Adicione aqui o FFMPEG e YT-DLP
